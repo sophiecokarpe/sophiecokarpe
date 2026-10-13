@@ -1,16 +1,12 @@
-## Hi there 👋
+# Junior Business Analyst
 
-<!--
-**sophiecokarpe/sophiecokarpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Profile
+Results-driven Junior Business Analyst with comprehensive training in requirements engineering and technical analysis. Skilled in translating business needs into clear, actionable technical specifications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Skills
+* **Requirements:** Elicitation, User Stories (INVEST), Use Cases, and Change Management.
+* **Technical:** SQL, API (Postman), Git, and SDLC (Agile/Scrum/Kanban).
+* **Modeling:** Visualizing processes via UML, BPMN, and ER diagrams.
+* **Tools:** Expert user of Jira and Confluence for backlog management.
+* **Strategy:** Stakeholder mapping, MVP definition, and Product Roadmapping.
+* **Design:** Prototyping and UX fundamentals.
