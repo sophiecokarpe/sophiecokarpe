@@ -1,12 +1,27 @@
-# Junior Business Analyst
+# Hi, I'm Sofia 👋
+### Junior Business Analyst | Requirements · Process Modeling · SQL
 
-## Professional Profile
-Results-driven Junior Business Analyst with comprehensive training in requirements engineering and technical analysis. Skilled in translating business needs into clear, actionable technical specifications.
+I turn business needs into clear, testable requirements.
 
-## Key Skills
-* **Requirements:** Elicitation, User Stories (INVEST), Use Cases, and Change Management.
-* **Technical:** SQL, API (Postman), Git, and SDLC (Agile/Scrum/Kanban).
-* **Modeling:** Visualizing processes via UML, BPMN, and ER diagrams.
-* **Tools:** Expert user of Jira and Confluence for backlog management.
-* **Strategy:** Stakeholder mapping, MVP definition, and Product Roadmapping.
-* **Design:** Prototyping and UX fundamentals.
+## What I Do
+- Elicit and document requirements: BRD, stakeholder requirements, FR/NFR, user stories (INVEST), use cases
+- Build traceability from scope → stakeholder requirements → functional / non-functional requirements
+- Model processes and data with BPMN, UML and ER diagrams
+- Query and validate data with SQL, test APIs with Postman
+- Work in Agile/Scrum/Kanban: backlog in Jira, documentation in Confluence
+
+## Skills
+| Area | Tools & Methods |
+|---|---|
+| **Requirements** | Elicitation, User Stories (INVEST), Use Cases, Change Management |
+| **Technical** | SQL, API (Postman), Git, SDLC (Agile / Scrum / Kanban) |
+| **Modeling** | UML, BPMN, ER diagrams |
+| **Tools** | Jira, Confluence |
+| **Strategy** | Stakeholder mapping, MVP definition, Product Roadmapping |
+| **Design** | Prototyping, UX fundamentals |
+
+## Languages
+Ukrainian (fluent) · English (fluent) · Russian (fluent) · French (intermediate)
+
+## Contact
+📍 Kyiv, Ukraine 
